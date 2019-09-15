@@ -1,2 +1,2 @@
 # BoteroniDocs
-Read the .txt for the bot documentation.
+Read Docs.md for the bot documentation.
