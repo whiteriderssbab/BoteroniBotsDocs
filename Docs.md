@@ -14,9 +14,9 @@ Owner: WhiteRider#0428
 Developers and helpers: bakzkndd#0979, Youngunz#7340, KeplerTeddy#1138
 
 
-Commands:
+# Commands:
 
-Moderation Commands
+# Moderation Commands
 
 b?say Says want you want
 
@@ -52,9 +52,9 @@ b?event Makes an event poll
 
 b?giveaway Makes a giveaway
 
-Economy Commands The bots economy commands. These are under heavy development. Will be available after version 1.3(maybe).
+# Economy Commands. These are under heavy development. Will be available after version 1.3(maybe).
 
-Fun Commands Fun commands for everyone.
+# Fun Commands Fun commands for everyone.
 
 b?8ball 8ball choice
 
@@ -76,7 +76,7 @@ b?insult Insults a member or you
 
 b?yomama Yomama jokes
 
-For all Commands Commands for everyone.
+# For all Commands Commands for everyone.
 
 b?uptime Shows the bots uptime
 
