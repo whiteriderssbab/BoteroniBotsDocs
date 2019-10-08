@@ -27,6 +27,8 @@ botinfo
 bugreport
 
 clear
+
+coinflip
   
   createinv--
 
@@ -153,3 +155,38 @@ welcome
 yomama
 
 youngunz
+
+
+# Boteroni Music:
+
+bugreport 
+
+help or h
+
+invite 
+
+np 
+
+pause 
+
+play or p
+
+queue 
+
+resume 
+
+  serverlist-- 
+  
+site 
+
+skip or s
+
+stats 
+
+stop 
+
+support 
+
+uptime 
+
+volume or v
