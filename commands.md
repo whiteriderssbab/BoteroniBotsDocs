@@ -1,5 +1,5 @@
 # Boteroni:
-- = not released --= owner command
+(-) = not released (--) = owner command
 8ball
 
 addrole
