@@ -37,6 +37,8 @@ coinflip
   
   createinv--
 
+createrole
+
 credits
 
 dadjokes
