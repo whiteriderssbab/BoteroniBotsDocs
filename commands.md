@@ -1,0 +1,77 @@
+8ball
+addrole
+ anti-invite
+ anti-link
+ anti-mass-mention
+ anti-raid
+ anti-spam
+ anti-swear
+avatar
+bak
+ban
+botinfo
+bugreport
+clear
+  createinv
+credits
+dadjokes
+emojify
+emojilist
+esay
+event
+giveaway
+hangman
+help
+help2
+insult
+invcreate
+invite
+kick
+kill
+lockdown
+ logs
+meme
+memecreate
+mute
+  oaddrole
+  oban
+  oclear
+  oesay
+  okick
+  omute
+  oremoverole
+  osay
+  ounban
+  ounmute
+  ownerhelp
+ping
+poll
+quiz
+rank
+  reboot
+removerole
+rps
+say
+serverinfo
+  serverlist
+  setgame
+setprefix
+settings
+  shutdown
+site
+stats
+status
+support
+unban
+unlock
+unmute
+uptime
+userinfo
+version
+vote
+warn
+warnlevel
+weather
+welcome
+yomama
+youngunz
