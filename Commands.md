@@ -1,3 +1,6 @@
+# Commands
+This is just for my reference while editing documentation.
+
 # Boteroni:
 (-) = not released (--) = owner command
 
