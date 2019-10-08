@@ -2,17 +2,17 @@
 
 addrole
 
- anti-invite
+ anti-invite-
  
- anti-link
+ anti-link-
  
- anti-mass-mention
+ anti-mass-mention-
  
- anti-raid
+ anti-raid-
  
- anti-spam
+ anti-spam-
  
- anti-swear
+ anti-swear-
  
 avatar
 
@@ -26,7 +26,7 @@ bugreport
 
 clear
   
-  createinv
+  createinv--
 
 credits
 
@@ -60,7 +60,7 @@ kill
 
 lockdown
  
- logs
+ logs-
 
 meme
 
@@ -68,27 +68,27 @@ memecreate
 
 mute
   
-  oaddrole
+  oaddrole--
   
-  oban
+  oban--
   
-  oclear
+  oclear--
   
-  oesay
+  oesay--
   
-  okick
+  okick--
   
-  omute
+  omute--
   
-  oremoverole
+  oremoverole--
   
-  osay
+  osay--
   
-  ounban
+  ounban--
   
-  ounmute
+  ounmute--
   
-  ownerhelp
+  ownerhelp--
 
 ping
 
@@ -98,7 +98,7 @@ quiz
 
 rank
   
-  reboot
+  reboot--
 
 removerole
 
@@ -108,15 +108,15 @@ say
 
 serverinfo
   
-  serverlist
+  serverlist--
   
-  setgame
+  setgame--
 
 setprefix
 
-settings
+settings-
   
-  shutdown
+  shutdown--
 
 site
 
