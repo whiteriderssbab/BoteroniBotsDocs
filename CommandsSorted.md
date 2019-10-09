@@ -99,6 +99,46 @@ yomama
 
 ###### For All Commands:
 
+bak
+
+botinfo
+
+bugreport
+
+credits
+
+help
+
+help2
+
+help3
+
+invcreate
+
+invite
+
+ping
+
+rank
+
+serverinfo
+
+site
+
+stats
+
+status
+
+support
+
+userinfo
+
+version
+
+vote
+
+youngunz
+
 ###### Owner Commands:
 
 createinv-- 
