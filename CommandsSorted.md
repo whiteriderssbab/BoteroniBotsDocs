@@ -48,7 +48,23 @@ warn
 
 warnlevel
 
+AutoMod/Module Commands:
 
+ anti-invite- 
+ 
+ anti-link- 
+ 
+ anti-mass-mention- 
+ 
+ anti-raid- 
+ 
+ anti-spam- 
+ 
+ anti-swear- 
+ 
+ logs-
+ 
+ XP system
 
 Fun Commands:
 
@@ -83,3 +99,44 @@ weather
 yomama
 
 For All Commands:
+
+
+
+
+Owner Commands:
+
+createinv-- 
+
+oaddrole-- 
+  
+  oban-- 
+  
+  oclear-- 
+  
+  oesay-- 
+  
+  okick-- 
+  
+  omute-- 
+  
+  oremoverole-- 
+  
+  osay-- 
+  
+  ounban-- 
+  
+  ounmute-- 
+  
+  ownerhelp-- 
+  
+   reboot-- 
+
+  serverlist-- 
+  
+  setgame-- 
+
+shutdown--
+
+Economy Commands:
+
+Coming Soon™
