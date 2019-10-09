@@ -176,3 +176,43 @@ shutdown--
 ###### Economy Commands:
 
 Coming Soon™
+
+# Boteroni Music:
+
+###### Music Commands:
+
+np
+
+pause
+
+play or p
+
+queue
+
+resume
+
+skip or s
+
+stop
+
+volume or v
+
+###### Other Commands:
+
+bugreport
+
+help or h
+
+invite
+
+serverlist--
+
+site
+
+stats
+
+support
+
+uptime
+
+
