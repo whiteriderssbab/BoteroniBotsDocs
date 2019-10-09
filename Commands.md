@@ -60,7 +60,7 @@ help a
 
 help2 a
 
-help3
+help3 a
 
 insult f
 
