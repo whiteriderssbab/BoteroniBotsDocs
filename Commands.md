@@ -3,16 +3,16 @@ This is just for my reference while editing documentation.
 
 # Boteroni:
 (-) = not released (--) = owner command
-(m) = mod cmd (a) = all cmd (f) = fun cmd (e) = eco cmd (am) = automod cmd (o) = owner cmd
+(m) = mod cmd (a) = all cmd (f) = fun cmd (e) = eco cmd (am) = automod/module cmd (o) = owner cmd
 
 
 8ball f
 
 addrole m
 
- anti-invite- ad
+ anti-invite- am
  
- anti-link- ad
+ anti-link- am
  
  anti-mass-mention- am
  
@@ -42,7 +42,7 @@ createrole m
 
 credits a
 
-dadjokes f
+dadjoke f
 
 emojify f 
 
@@ -160,15 +160,15 @@ warnlevel m
 
 weather a/f
 
-welcome a/am
+welcome m/am
+
+XP system am
 
 yomama f
 
 youngunz a
 
-
 # Boteroni Music:
-
 
 bugreport 
 
