@@ -5,8 +5,6 @@ THIS IS INTENDED AS A DOCUMENTATION OF MY DISCORD BOT. THIS IS NOT INTENDED AS A
 
 Invite: https://discordapp.com/oauth2/authorize?client_id=577769766287048715&scope=bot&permissions=8
 
-Apon addding this bot to your server, do the b?setup command so the bot is configured and will work!
-
 Support server: https://discord.gg/vYjRTRg
 
 Owner: WhiteRider#0428
