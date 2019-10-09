@@ -30,6 +30,8 @@ ban m
 
 botinfo a
 
+botsuggest a
+
 bugreport a
 
 clear m
