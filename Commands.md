@@ -3,165 +3,168 @@ This is just for my reference while editing documentation.
 
 # Boteroni:
 (-) = not released (--) = owner command
+(m) = mod cmd (a) = all cmd (f) = fun cmd (e) = eco cmd (am) = automod cmd (o) = owner cmd
 
 
-8ball
+8ball f
 
-addrole
+addrole m
 
- anti-invite-
+ anti-invite- ad
  
- anti-link-
+ anti-link- ad
  
- anti-mass-mention-
+ anti-mass-mention- am
  
- anti-raid-
+ anti-raid- am
  
- anti-spam-
+ anti-spam- am
  
- anti-swear-
+ anti-swear- am
  
-avatar
+avatar f
 
-bak
+bak a
 
-ban
+ban m
 
-botinfo
+botinfo a
 
-bugreport
+bugreport a
 
-clear
+clear m
 
-coinflip
+coinflip f
   
-  createinv--
+  createinv-- o
 
-createrole
+createrole m
 
-credits
+credits a
 
-dadjokes
+dadjokes f
 
-emojify
+emojify f 
 
-emojilist
+emojilist f
 
-esay
+esay m
 
-event
+event m
 
-giveaway
+giveaway m
 
-hangman
+hangman f
 
-help
+help a
 
-help2
+help2 a
 
-insult
+help3
 
-invcreate
+insult f
 
-invite
+invcreate a
 
-kick
+invite a
 
-kill
+kick m 
 
-lockdown
+kill f
+
+lockdown m
  
- logs-
+ logs- am
 
-meme
+meme f
 
-memecreate
+memecreate f
 
-mute
+mute m
   
-  oaddrole--
+  oaddrole-- o
   
-  oban--
+  oban-- o
   
-  oclear--
+  oclear-- o
   
-  oesay--
+  oesay-- o
   
-  okick--
+  okick-- o
   
-  omute--
+  omute-- o
   
-  oremoverole--
+  oremoverole-- o
   
-  osay--
+  osay-- o
   
-  ounban--
+  ounban-- o
   
-  ounmute--
+  ounmute-- o
   
-  ownerhelp--
+  ownerhelp-- o
 
-ping
+ping a
 
-poll
+poll m
 
-quiz
+quiz f
 
-rank
+rank a
   
-  reboot--
+  reboot-- o
 
-removerole
+removerole m
 
-rps
+rps f
 
-say
+say m
 
-serverinfo
+serverinfo a
   
-  serverlist--
+  serverlist-- o
   
-  setgame--
+  setgame-- o
 
-setprefix
+setprefix m
 
-settings-
+settings- m/am
   
-  shutdown--
+  shutdown-- o
 
-site
+site a
 
-stats
+stats a
 
-status
+status a
 
-support
+support a
 
-unban
+unban m
 
-unlock
+unlock m
 
-unmute
+unmute m
 
-uptime
+uptime a
 
-userinfo
+userinfo a
 
-version
+version a
 
-vote
+vote a
 
-warn
+warn m
 
-warnlevel
+warnlevel m
 
-weather
+weather a/f
 
-welcome
+welcome a/am
 
-yomama
+yomama f
 
-youngunz
+youngunz a
 
 
 # Boteroni Music:
