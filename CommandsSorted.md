@@ -5,8 +5,7 @@ Sorted by the type of command.
 # Boteroni
 (-) = not released (--) = owner command
 
-Moderation cmds:
-
+###### Moderation cmds:
 
 addrole
 
@@ -48,25 +47,25 @@ warn
 
 warnlevel
 
-AutoMod/Module Commands:
+###### AutoMod/Module Commands:
 
- anti-invite- 
+anti-invite- 
  
- anti-link- 
- 
- anti-mass-mention- 
- 
- anti-raid- 
- 
- anti-spam- 
- 
- anti-swear- 
- 
- logs-
- 
- XP system
+anti-link- 
 
-Fun Commands:
+anti-mass-mention- 
+ 
+anti-raid- 
+ 
+anti-spam- 
+ 
+anti-swear- 
+ 
+logs-
+ 
+XP system
+
+###### Fun Commands:
 
 8ball
 
@@ -98,45 +97,42 @@ weather
 
 yomama
 
-For All Commands:
+###### For All Commands:
 
-
-
-
-Owner Commands:
+###### Owner Commands:
 
 createinv-- 
 
 oaddrole-- 
   
-  oban-- 
+oban-- 
   
-  oclear-- 
+oclear-- 
   
-  oesay-- 
+oesay-- 
   
-  okick-- 
+okick-- 
   
-  omute-- 
+omute-- 
   
-  oremoverole-- 
+oremoverole-- 
   
-  osay-- 
+osay-- 
+ 
+ounban-- 
   
-  ounban-- 
+ounmute-- 
   
-  ounmute-- 
+ownerhelp-- 
   
-  ownerhelp-- 
-  
-   reboot-- 
+reboot-- 
 
-  serverlist-- 
+serverlist-- 
   
-  setgame-- 
+setgame-- 
 
 shutdown--
 
-Economy Commands:
+###### Economy Commands:
 
 Coming Soon™
