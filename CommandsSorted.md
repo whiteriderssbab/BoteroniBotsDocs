@@ -105,6 +105,8 @@ botinfo
 
 bugreport
 
+botsuggest
+
 credits
 
 help
