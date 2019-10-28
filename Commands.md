@@ -1,30 +1,34 @@
 # Commands
 This is just for my reference while editing documentation.
 
-# Boteroni:
-(-) = not released (--) = owner command
-(m) = mod cmd (a) = all cmd (f) = fun cmd (e) = eco cmd (am) = automod/module cmd (o) = owner cmd
+## Boteroni:
+#### (-) = not released (--) = owner command
+#### (m) = mod cmd (a) = all cmd (f) = fun cmd (e) = eco cmd (am) = automod/module cmd (o) = owner cmd
 
 
 8ball f
 
 addrole m
 
- anti-invite- am
+afk a
+
+anti-invite am
  
- anti-link- am
+anti-link am
  
- anti-mass-mention- am
+anti-mass-mention am
  
- anti-raid- am
+anti-raid am
  
- anti-spam- am
+anti-spam am
  
- anti-swear- am
+anti-swear am
  
 avatar f
 
 bak a
+
+balance e
 
 ban m
 
@@ -46,15 +50,23 @@ credits a
 
 dadjoke f
 
+deposit e
+
+docs a
+
 emojify f 
 
 emojilist f
+
+ enabledmodules- am
 
 esay m
 
 event m
 
 giveaway m
+
+giftmoney e
 
 hangman f
 
@@ -63,6 +75,8 @@ help a
 help2 a
 
 help3 a
+
+help4 a
 
 insult f
 
@@ -76,7 +90,7 @@ kill f
 
 lockdown m
  
- logs- am
+logs am
 
 meme f
 
@@ -118,6 +132,8 @@ rank a
 
 removerole m
 
+rob e
+
 rps f
 
 say m
@@ -158,11 +174,15 @@ vote a
 
 warn m
 
-warnlevel m
+ warnlevel- m
 
 weather a/f
 
 welcome m/am
+
+withdraw e
+
+work e
 
 XP system am
 
