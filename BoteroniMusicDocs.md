@@ -10,4 +10,43 @@ Owner: WhiteRider#0428
 
 Developers and helpers: WhiteRider#0428
 
-### Coming Soon™
+### Commands
+
+m!play or m!p
+Search for the song you want to play
+
+m!skip or m!s
+Skips the current song
+
+m!stop
+Stops the queue
+
+m!queue or m!q
+Shows the current queue
+
+m!np
+Shows what is now playing
+
+m!pause or m!p
+Pauses the queue
+
+m!resume or m!r
+Continues playing the current queue
+
+m!support
+Support server
+
+m!invite
+Invite link for the bot
+
+m!bugreport
+Reports a bug
+
+m!uptime
+Shows the bots uptime
+
+m!stats
+Bot stats
+
+m!site
+Bots website
