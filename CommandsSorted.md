@@ -49,19 +49,21 @@ warnlevel
 
 ###### AutoMod/Module Commands:
 
-anti-invite- 
+anti-invite
  
-anti-link- 
+anti-link
 
-anti-mass-mention- 
+anti-mass-mention
  
-anti-raid- 
+anti-raid
  
-anti-spam- 
+anti-spam
  
-anti-swear- 
+anti-swear
+
+enabledmodules-
  
-logs-
+logs
  
 XP system
 
@@ -109,11 +111,15 @@ botsuggest
 
 credits
 
+docs
+
 help
 
 help2
 
 help3
+
+help4
 
 invcreate
 
@@ -177,7 +183,17 @@ shutdown--
 
 ###### Economy Commands:
 
-Coming Soon™
+balance
+
+deposit
+
+giftmoeny
+
+rob
+
+withdraw
+
+work
 
 # Boteroni Music:
 
