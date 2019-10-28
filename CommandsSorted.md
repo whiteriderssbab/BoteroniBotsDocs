@@ -115,12 +115,6 @@ docs
 
 help
 
-help2
-
-help3
-
-help4
-
 invcreate
 
 invite
