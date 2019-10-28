@@ -72,12 +72,6 @@ hangman f
 
 help a
 
-help2 a
-
-help3 a
-
-help4 a
-
 insult f
 
 invcreate a
