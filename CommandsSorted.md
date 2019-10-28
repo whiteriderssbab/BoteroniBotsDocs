@@ -2,8 +2,8 @@
 
 Sorted by the type of command.
 
-# Boteroni
-(-) = not released (--) = owner command
+## Boteroni
+#### (-) = not released (--) = owner command
 
 ###### Moderation cmds:
 
@@ -195,7 +195,7 @@ withdraw
 
 work
 
-# Boteroni Music:
+## Boteroni Music:
 
 ###### Music Commands:
 
