@@ -12,3 +12,21 @@ Owner: WhiteRider#7478
 Developers and helpers: bakzkndd#2819, Youngunz#7340, KeplerTeddy#1138
 
 ### Commands
+
+sb!info
+Shows the bots info
+
+sb!uptime or sb!u
+Bots uptime
+
+sb!ping
+Shows the bot ping
+
+sb!invite or sb!i
+Invites the bot
+
+Command type:
+Paid
+
+sb!ban
+Bans people
