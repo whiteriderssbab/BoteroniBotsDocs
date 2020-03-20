@@ -9,7 +9,7 @@ Support server: https://discord.gg/vYjRTRg
 
 Owner: WhiteRider#7478
 
-Developers and helpers: bakzkndd#0979, Youngunz#7340, KeplerTeddy#1138
+Developers and helpers: bakzkndd#2819, Youngunz#7340, KeplerTeddy#1138
 
 ### Commands
 
