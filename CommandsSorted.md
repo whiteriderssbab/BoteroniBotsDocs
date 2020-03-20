@@ -233,14 +233,14 @@ uptime
 
 ban
 
-help
+help or h
 
 info
 
-invite
+invite or i
 
 ping
 
 test
 
-uptime
+uptime or u
