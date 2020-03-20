@@ -6,9 +6,9 @@ Invite: https://discordapp.com/oauth2/authorize?client_id=589747645174644737&sco
 
 Support server: https://discord.gg/vYjRTRg
 
-Owner: WhiteRider#0428
+Owner: WhiteRider#7478
 
-Developers and helpers: WhiteRider#0428
+Developers and helpers: WhiteRider#7478
 
 ### Commands
 
