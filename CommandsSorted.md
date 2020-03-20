@@ -1,9 +1,9 @@
 # Sorted Commands
+#### (-) = not released (--) = owner command
 
 Sorted by the type of command.
 
 ## Boteroni
-#### (-) = not released (--) = owner command
 
 ###### Moderation cmds:
 
@@ -227,4 +227,20 @@ support
 
 uptime
 
+## Safari Bot:
 
+###### All Commands:
+
+ban
+
+help
+
+info
+
+invite
+
+ping
+
+test
+
+uptime
