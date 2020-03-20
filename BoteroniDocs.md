@@ -7,7 +7,7 @@ Invite: https://discordapp.com/oauth2/authorize?client_id=577769766287048715&sco
 
 Support server: https://discord.gg/vYjRTRg
 
-Owner: WhiteRider#0428
+Owner: WhiteRider#7478
 
 Developers and helpers: bakzkndd#0979, Youngunz#7340, KeplerTeddy#1138
 
