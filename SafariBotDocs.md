@@ -25,8 +25,5 @@ Shows the bot ping
 sb!invite or sb!i
 Invites the bot
 
-Command type:
-Paid
-
 sb!ban
 Bans people
